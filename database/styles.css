@@ -1,0 +1,58 @@
+.th{
+    background-image: radial-gradient( circle farthest-corner at 52.1% -29.6%,  rgba(144,17,105,1) 0%, rgba(51,0,131,1) 100.2% );
+height: 100rem;
+
+
+}
+.th1{
+    margin-left: 45%;
+}
+.th2{
+    margin-left: 45%;
+    margin-top: 5rem;
+   
+
+}
+.th3{
+    margin-left: 8%;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.th4{
+     margin-left:9% ;
+     font-size: 20px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.th6{
+    margin-left: 5.4%;
+    font-size: 20px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     border-radius: 10px;
+}
+.th7{
+    height: 2rem;
+    width: 220px;
+}
+.th8{
+    color: black;
+    font-size: 20px;
+    margin-left: 2.9%;
+}
+.th9{
+    background-image: radial-gradient( circle farthest-corner at 7.5% 24%,  rgba(237,161,193,1) 0%, rgba(250,178,172,1) 25.5%, rgba(190,228,210,1) 62.3%, rgba(215,248,247,1) 93.8% );
+}
+.th10{
+    margin-left: 45%;
+    font-size: 30px;
+  
+}
+.th11{
+    margin-left: 30%;
+}
+.user-info {
+    text-align: center;
+    margin-left: 0%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    
+}
